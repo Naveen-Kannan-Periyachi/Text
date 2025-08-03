@@ -1,0 +1,15 @@
+📌 Sentence Tokenization:
+Total sentences: 535
+
+📌 Word Tokenization:
+Total words: 12241
+
+📌 POS Tagging (first 20):
+[('22ALT43', 'CD'), ('-', ':'), ('Operating', 'NN'), ('Systems', 'NNPS'), ('1', 'CD'), ('Unit', 'NNP'), ('–', 'NNP'), ('II', 'NNP'), ('Process', 'NNP'), ('Management', 'NNP'), ('Process', 'NNP'), ('Concept', 'NNP'), ('–', 'NNP'), ('Process', 'NNP'), ('Scheduling', 'NNP'), ('–', 'NNP'), ('Operations', 'NNP'), ('on', 'IN'), ('Processes', 'NNP'), ('–', 'NNP')]
+
+
+📌 Filtered Words (no stopwords, first 20):
+['Operating', 'Systems', 'Unit', 'II', 'Process', 'Management', 'Process', 'Concept', 'Process', 'Scheduling', 'Operations', 'Processes', 'Interprocess', 'Communication', 'IPC', 'Shared', 'Memory', 'Message', 'Passing', 'Systems']
+
+📌 Sentiment Analysis:
+{'neg': 0.028, 'neu': 0.899, 'pos': 0.073, 'compound': 0.9999}

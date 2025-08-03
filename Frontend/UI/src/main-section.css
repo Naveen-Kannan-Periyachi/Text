@@ -1,0 +1,9 @@
+/* Unified width for all main sections */
+.main-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
